@@ -1,0 +1,267 @@
+
+* {
+    box-sizing: border-box;
+}
+.container{
+    height: 500px;
+    width: 300px;
+    border: 4px solid black;
+    margin-top: 5%;
+    margin-left: 40%;
+    border-radius: 20px;
+    overflow-y: scroll;
+    /* overflow-x: hidden; */
+    scrollbar-width: none;
+    background-color: rgb(148, 219, 168);
+    background-image: url(./4bd18953-547d-4e32-add2-9227addddd3f.jpg);
+     background-size: cover;  
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.top{
+    height: 8%;
+    width: 293px;
+    background-color: rgb(34, 202, 34);
+    position: fixed;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
+i{
+    
+    color: aliceblue;
+    
+    display: inline-block;
+    
+    padding-left: 8px;
+}
+.profile3{
+    font-size: 20px;
+     margin-right: 40px
+}
+.profile2{
+    padding-right: 5px
+}
+.profile{
+     font-size: 20px;
+    color: aliceblue;
+    
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 4px;
+
+}
+.sendbox{
+    
+    height: 7%;
+    width: 248px;
+    position: fixed;
+    background-color: rgb(163, 179, 108);
+    bottom: 159px;
+
+    
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    
+   
+    
+}
+.bottom{
+    display: inline-block;
+   color: rgb(12, 22, 31);
+  
+    font-size: 20px;
+    
+
+
+}
+.mic{
+    
+    height:48px;
+    width:48px;
+    background-color: rgb(47, 230, 47);
+    border-radius: 100%;
+    
+   
+    margin-left: 248px;
+    position: fixed;
+    
+    bottom: 157px;
+    display: inline-block;
+    font-size: 30px;
+    padding: 2px;
+    
+    
+
+
+}
+.bottom4{
+ 
+    
+    font-size:20px;
+    width: 25px;
+    padding-right:0px;
+   margin-left:px;
+    
+ 
+
+}
+.bottom2{
+    
+    margin-right: 40px;
+    margin-top: -5px;
+}
+.bottom5{
+    
+    margin-left: -11;
+}
+.bottom3{
+    
+    margin-right:px
+    padding-right:10px;
+}
+
+
+.left{
+    /* border: 2px solid black; */
+    height: 40px;
+   
+    width: 80px;
+    background-color: lightgreen;
+    border-bottom-left-radius:20px ;
+    border-top-left-radius: 20px;
+    margin-left:210px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    padding-left: 6px;
+    padding-right: 1px;
+    
+    
+}
+p{
+    display: inline-block;
+    
+}
+.messages2{
+    width: 129px;
+    margin-left: 163px;
+    margin-top: 2px;
+}
+.messages3{
+    width: 233px;
+    margin-left: 58px;
+
+
+    
+    margin-top: 2px;
+}
+.messages4{
+     width: 250px;
+    margin-left: 40px;
+
+
+    
+    margin-top: 2px;
+}
+.messages5{
+     width: 200px;
+    margin-left: 90px;
+    margin-top: 2px;
+}
+.messages6{
+     width: 185px;
+    margin-left: 105px;
+    margin-top: 2px;
+}.messages7{
+     width: 256px;
+    margin-left: 34px;
+    margin-top: 2px;
+}
+.messages8{
+     width: 248px;
+    margin-left: 43px;
+    margin-top: 2px;
+}
+.messages9{
+     width: 228px;
+    margin-left: 63px;
+    margin-top: 2px;
+}
+.messages10{
+     width: 200px;
+    margin-left: 91px;
+    margin-top: 2px;
+}
+.messages11{
+     width: 260px;
+    margin-left: 31px;
+    margin-top: 2px;
+}
+.right{
+    height: 65px;
+    background-color: beige;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    padding-right: 4px;
+    width: 200px;
+    margin-top: 3px;
+    margin-left: 1px;
+
+}
+.rightmessages2{
+    height: 40px;
+    width: 185px;
+}
+.rightmessages5{
+    height: 85px;
+    
+}
+.rightmessages6{
+    height: 105px;
+    
+}
+.rightmessages7{
+    height: 40px;
+    width: 130px;
+    
+}
+
+.tick{
+    display: inline-block;
+    
+}
+.tick1{
+    margin-left: 3px;
+}
+.tick2{
+    margin-left: 10px;
+}
+.tick4{
+    margin-left: 8px;
+}
+.tick5{
+    margin-left: 9px;
+}
+.date{
+    margin-left: 100px;
+    margin-top: 60px;
+    border: 1px solid black;
+
+    width: 80px;
+    height: 30px;
+    position: sticky;
+    top: 60px;
+    background-color:rgb(181, 173, 163);
+    border-radius: 30px;
+    font-size: 10px;
+    padding-left: 10px;
+}
+.date2{
+    margin-top: 2px;
+}
+.date3{
+    margin-top: 2px;
+}
