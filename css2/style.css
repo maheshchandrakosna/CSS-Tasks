@@ -57,7 +57,7 @@ i{
     width: 248px;
     position: fixed;
     background-color: rgb(163, 179, 108);
-    bottom: 159px;
+    bottom: 158px;
 
     
     border-bottom-left-radius: 15px;
@@ -87,10 +87,10 @@ i{
     margin-left: 248px;
     position: fixed;
     
-    bottom: 157px;
+    bottom: 158px;
     display: inline-block;
     font-size: 30px;
-    padding: 2px;
+    padding-top: 8px;
     
     
 
